@@ -1,0 +1,56 @@
+body nav{
+    font-family: "Open Sans", "sans-serif";
+    
+}
+h1, h2, h3, nav{
+    font-family: 'Ultra', serif;
+;
+}
+h2 {
+    color: #30c530;
+}
+header h1, h2 {
+    color: #ffffff;
+    text-shadow: 2px 2px 4px #000000;
+}
+  
+.site-footer {
+    background-image: linear-gradient(rgb(129, 209, 24),#30c53d);
+    padding: 20px 0;
+    
+}
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, #f8c324,
+    #30c53d, #316b10 );
+    color: white;
+    margin: 0;
+}
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+.navbar {
+    background-color: #1cad3b;
+}
+a, a:hover {
+    color: gray;
+    text-decoration: none;
+  }
+ a, a:link {
+    color: black;
+  }
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #37dd6e;
+}
+.shadow{
+    box-shadow:20px 20px 10px black;
+}
+.wht{
+    color:#f8c324;
+}
